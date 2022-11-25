@@ -1,0 +1,12 @@
+GET http://localhost:3001/?login=egor&pass=1 HTTP/1.1
+
+
+###
+
+POST http://localhost:3001/ HTTP/1.1
+content-type: application/json
+
+{
+    "login": "egor-2",
+    "password": "2"
+}
