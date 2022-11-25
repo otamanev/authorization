@@ -1,4 +1,4 @@
-GET http://localhost:3001/?login=egor&pass=1 HTTP/1.1
+GET http://localhost:3001/?login=egor&password=1 HTTP/1.1
 
 
 ###
